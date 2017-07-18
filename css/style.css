@@ -1,0 +1,45 @@
+form {
+	position: absolute;
+	bottom: 10px;
+	background: #B71C1C;
+	padding: 10px;
+	margin-left: 25%;
+	margin-right:25%;
+	width: 50%;	
+}
+
+input#nama {
+	float: left;
+	width: 25%;
+	height: 30px;
+	border: none;
+}
+
+input#text_box {
+	float: left;
+	width: 45%;
+	height: 30px;
+	border: none;
+	margin-left: 15px;
+}
+
+button {
+	float: left;
+	width: 25%;
+	height: 30px;
+	margin-left: 15px;
+}
+
+li {
+	padding: 5px;
+	margin: 5px;
+}
+
+li:nth-child(even) {
+	background: #EF5350;
+	color: white;
+}
+
+li:nth-child(odd) {
+	
+}
